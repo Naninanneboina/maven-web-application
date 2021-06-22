@@ -102,13 +102,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-18-116-238-114.us-east-2.compute.amazonaws.com:8081/repository/project-release/</url>
+	      <url>http://ec2-18-217-124-100.us-east-2.compute.amazonaws.com:8081/repository/project-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://ec2-18-116-238-114.us-east-2.compute.amazonaws.com:8081/repository/project-snapshot/</url>
+	      <url>http://ec2-18-217-124-100.us-east-2.compute.amazonaws.com:8081/repository/project-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
